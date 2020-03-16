@@ -20,9 +20,11 @@ Valid Noc id:8451651656
 Here is an overview of the tool:
 
 Home page: 
-
-Configureation page: 
-
+![HomePageImage](Images/1.png)
+Configuration page: 
+![ConfigPageImage](Images/3.png)
 Region wise monitoring page: 
-
+![MonitorPageImage](Images/4.png)
 Analysis page: 
+![AnalysisPageImage](Images/5.png)
+
